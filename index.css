@@ -1,0 +1,87 @@
+body { 
+  margin: 0;
+  background: #1F2937;
+  color: #FFFFFF; 
+}
+.container {
+     margin: 80px 0 20px 40px;
+}
+
+span {
+    
+    display: block;
+    color: #4ADF86;
+}
+
+.container-header {
+    margin-top: 110px;
+    font-family: 'Karla', sans-serif;
+    font-style: 800px;
+    font-size: 40px;  
+}
+.container-p {
+    margin-bottom: 30px;
+    font-family: 'Inter', sans-serif;
+    font-style: 400px;
+    font-size: 22px;
+}
+.container-button {
+    background: #4ADF86;
+    color: #FFFFFF;
+    padding: 5px 8px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px; 
+    font-family: 'Inter', sans-serif;
+    font-style: 400px;
+    font-size: 18px;  
+}
+#horizontal-sep {
+    height: 1px;
+    background: #2F3E53;
+    border: 1px;
+    margin-bottom: 30px; 
+    margin-right: 35%;
+}
+#logOutPassWord {
+    display: flex;
+      
+}
+.logPassWord-btn {
+    height: 32px;
+    width: 192px;
+    left: 297px;
+    top: 400px;
+    border-radius: nullpx;
+    padding-bottom: 30px; 
+    
+}
+
+#passWordOutput2-el {
+     background: #273549;
+     color: #4ADF86;
+     margin-left: 10px;
+     border: none;
+     border-radius: 5px;
+     font-family: 'Inter', sans-serif;
+     font-style: 400px;
+     font-size: 16px;
+     line-height: 32px;
+}
+
+
+
+#passWordOutput1-el {
+    background: #273549;
+    color: #4ADF86;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-style: medium;
+    font-size: 16px;
+    text-align: center;
+    line-height: 32px;
+       
+}
+
+
